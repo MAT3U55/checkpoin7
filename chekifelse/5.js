@@ -1,0 +1,1 @@
+let nivelFome = 2
